@@ -58,7 +58,7 @@ Training Progress Validation Results with plot
 ![Alt text](results/training_progress.png)
 
 Test Results with plot
-![Alt text](<Screenshot 2024-12-14 at 6.42.46 AM.png>)
+![Alt text](<Screenshot 2024-12-14 at 6.47.26 AM.png>)
 ![Alt text](results/test_results.png)
 
 
