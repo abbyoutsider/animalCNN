@@ -1,13 +1,13 @@
 ## Project Overview
 A simple CNN model for animal classification with animal images using PyTorch
 
-Goal: Classify animal species from images (zebra, elephant, giraffe, lion, hippo).
+**Goal**: Classify animal species from images (zebra, elephant, giraffe, lion, hippo).
 
-Approach: Shifted from animal crowds to single-animal images for better results.
+**Approach**: Shifted from animal crowds to single-animal images for better results.
 
-Outcome: Achieved 90% validation accuracy and 80% test accuracy with SimpleCNN.
+**Outcome**: Achieved 90% validation accuracy and 80% test accuracy with SimpleCNN.
 
-Challenges
+**Challenges**
 
 Animal Crowds:
 Issues with background noise, varying art styles, and partial animal bodies.
@@ -18,6 +18,7 @@ Underfitting with small datasets and large model architectures.
 
 ## Quick Review of Results
 Demo/Final_Project.ipynb
+
 Demo/Final_project.pdf
 
 ## Data preparation
