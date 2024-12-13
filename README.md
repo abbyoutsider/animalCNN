@@ -73,23 +73,7 @@ The classification of animal species has numerous practical applications, includ
 ## Future Work
 - Expand the dataset to include more images per class.
 - Apply data augmentation to improve model robustness.
-- Explore semi-supervised learning methods to handle larger datasets.
-
-## Repository Structure
-```plaintext
-├── data/                # Dataset directory
-├── models/              # Saved models and training scripts
-├── notebooks/           # Jupyter notebooks for experimentation
-├── README.md            # Project overview
-├── requirements.txt     # Dependencies
-└── src/                 # Source code
-    ├── train.py         # Training script
-    ├── data_loader.py   # Load datasets and dataloader
-    └── utils.py         # Utility functions
-    └── model.py         # Define Model 
-    └── main.py          # Main script
-    
-
+- Explore semi-supervised learning methods to handle larger datasets.   
 
 ## Quick Review of Results
 Demo/Final_Project.ipynb
@@ -142,3 +126,17 @@ Pre-trained Model Link
 Not applicable, Both AnimalSpeciesCNN and VGG16 are underfitting and not adopted for this task
 
 
+## Repository Structure
+```plaintext
+├── data/                # Dataset directory
+├── models/              # Saved models and training scripts
+├── notebooks/           # Jupyter notebooks for experimentation
+├── README.md            # Project overview
+├── requirements.txt     # Dependencies
+└── src/                 # Source code
+    ├── train.py         # Training script
+    ├── data_loader.py   # Load datasets and dataloader
+    └── utils.py         # Utility functions
+    └── model.py         # Define Model 
+    └── main.py          # Main script
+```
